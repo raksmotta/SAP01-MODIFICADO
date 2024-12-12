@@ -2,7 +2,7 @@
 
 ---
 
-![imagem representativa projeto logisim](https://github.com/heramenezes/SAP01-MOD/blob/main/imgs/img_log_random.png)
+![imagem representativa projeto logisim](https://github.com/heramenezes/SAP01-MOD/blob/main/imgs/computer_architecture.jpg)
 
 ---
 
