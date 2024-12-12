@@ -30,14 +30,14 @@ O sistema funciona com a versão padrão do Logsim, sendo esta ddisponibilizada 
 
 ---
 ## 📖 Intruções implementadas:
-*LDA* : faz load do primeiro número para o programa
-*OUT* : faz a exibição do valor guardado no programa
-*HLT* : encerra o programa
-*ADD* : adiciona número direcionado para 'B' e guarda no programa
-*SUB* : subtrai número direcionado para 'B' e guarda no programa
-*INC* : incrementa em uma unidade o número salvo no programa 
-*MUL* : multiplica número adicionado para 'B' e salva no programa
-*DEC* : decrementa em uma unidade o número salvo no programa
+- *LDA* : faz load do primeiro número para o programa
+- *OUT* : faz a exibição do valor guardado no programa
+- *HLT* : encerra o programa
+- *ADD* : adiciona número direcionado para 'B' e guarda no programa
+- *SUB* : subtrai número direcionado para 'B' e guarda no programa
+- *INC* : incrementa em uma unidade o número salvo no programa 
+- *MUL* : multiplica número adicionado para 'B' e salva no programa
+- *DEC* : decrementa em uma unidade o número salvo no programa
 
 ---
 ## 🎮 Como funciona?
