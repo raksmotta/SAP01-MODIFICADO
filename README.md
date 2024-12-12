@@ -1,6 +1,8 @@
 <h1 align="center"> -- SAP-01 MODIFICADO -- </h1>
 ---
+
 ![imagem representativa projeto logisim](https://github.com/heramenezes/SAP01-MOD/blob/main/imgs/img_log_random.png)
+
 ---
 
 ## 👤 Integrantes
