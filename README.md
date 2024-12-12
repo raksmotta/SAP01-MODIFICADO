@@ -26,7 +26,7 @@ Este repositório tem como objetivo disponibilizar o projeto "SAP-01 MODIFICADO"
 
 ## ❓ Como abrir?
 
-O sistema funciona com a versão padrão do Logsim, sendo esta ddisponibilizada no site: https://sourceforge.net/projects/circuit/ .Para abrir o projeto, basta baixar o projeto disponibilizada neste repositório e abrir o projeto no Logisim já baixado. Ao abrir o projeto, clique na mãozinha de selecionar e vai clicando em CLK ( clock ) para ver o progresso de identificação e execuções de instruções.
+O sistema funciona com a versão padrão do Logisim, sendo esta ddisponibilizada no site: https://sourceforge.net/projects/circuit/ .Para abrir o projeto, basta baixar o projeto disponibilizada neste repositório e abrir o projeto no Logisim já baixado. Ao abrir o projeto, clique na mãozinha de selecionar e vai clicando em CLK ( clock ) para ver o progresso de identificação e execuções de instruções.
 
 ---
 ## 📖 Intruções implementadas:
