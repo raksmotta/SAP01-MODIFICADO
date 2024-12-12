@@ -2,13 +2,9 @@
 
 ---
 
-![imagem representativa projeto logisim](https://github.com/heramenezes/SAP01-MOD/blob/main/imgs/computer_architecture.jpg)
-
-
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/heramenezes/SAP01-MOD/blob/main/imgs/computer_architecture.jpg" alt="img computer architecture"/>
 </p>
-
 
 ---
 
