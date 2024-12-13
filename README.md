@@ -43,4 +43,9 @@ O sistema funciona com a versão padrão do Logisim, sendo esta ddisponibilizada
 ## 🎮 Como funciona?
 Nosso projeto funciona mostrando todas as instruções ( exceto o JMP ) no terminal, imprimindo em ordem de execução de instruções. Uma condição de funcionamento é implelemtar na ordem de instruções, um OUT depois de cada instrução desejada. Dessa forma, as instruções serão printadas no terminal do projeto.
 
+---
+## Vídeo Explicativo 📺
+
+O vídeo sobre o projeto se encontra [neste link](https://www.youtube.com/watch?v=loI6rfLkou4), na plataforma do Youtube.
+
 
