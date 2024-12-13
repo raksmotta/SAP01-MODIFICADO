@@ -1,9 +1,7 @@
-<h1 align="center"> -- SAP-01 MODIFICADO -- </h1>
-
----
+<h1 align="center"> SAP-01 MODIFICADO </h1>
 
 <p align="center">
-  <img src="https://github.com/heramenezes/SAP01-MOD/blob/main/imgs/computer_architecture.jpg" alt="img computer architecture"/>
+  <img src="https://github.com/raksmotta/SAP01-MODIFICADO/blob/main/imgs/ImagemMemorias.png" alt="img sap display"/>
 </p>
 
 ---
